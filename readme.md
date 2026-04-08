@@ -1,110 +1,74 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+Prompt testado com o Copilot, seguiu corretamente as intruções, a baixo a saída das sugestões de carreira:
+---
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+## 📊 Análise e Sugestão
 
-</p>
+Com base no seu perfil, identifiquei 3 carreiras muito promissoras:
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+════════════════════════════════════════════════════════════  
+🥇 **1º LUGAR: Desenvolvedor Web Full Stack** – 18/20  
+════════════════════════════════════════════════════════════  
 
-<br/>
-<br/>
+💡 **Por que combina com você:**  
+Você gosta de criar produtos, prefere lidar com código e já tem experiência inicial em criação de sites. O desenvolvimento web permite transformar ideias em soluções práticas e visíveis, além de ser uma porta de entrada sólida para o mercado.  
 
-## 💻 Sobre o Projeto
+⚖️ **O que esperar:**  
+**Vantagens:**  
+- Alta demanda por profissionais em diferentes setores  
+- Possibilidade de ver resultados rápidos e concretos  
+- Boa base para evoluir para mobile ou IA  
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+**Desafios:**  
+- Aprender múltiplas tecnologias (frontend e backend)  
+- Necessidade de prática constante para consolidar habilidades  
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+📈 **Mercado:**  
+O mercado de desenvolvimento web é amplo e variado, com oportunidades em empresas de todos os tamanhos, startups e até trabalho freelancer. A demanda varia por região e experiência, mas é uma das áreas mais acessíveis para quem busca o primeiro emprego.  
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+════════════════════════════════════════════════════════════  
+🥈 **2º LUGAR: Desenvolvedor Mobile** – 16/20  
+════════════════════════════════════════════════════════════  
 
-- _Exemplo_:
+💡 **Por que combina com você:**  
+Seu interesse em criar produtos e aplicativos móveis se conecta diretamente com a tendência de consumo digital. É uma área criativa e com impacto direto na vida das pessoas.  
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+⚖️ **O que esperar:**  
+**Vantagens:**  
+- Grande visibilidade dos projetos (apps usados diariamente)  
+- Mercado em expansão com novas tecnologias (Flutter, React Native)  
 
-- [Outros pré-requisitos, se aplicável]
+**Desafios:**  
+- Necessidade de aprender frameworks específicos  
+- Competição alta em lojas de aplicativos  
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+📈 **Mercado:**  
+O setor mobile cresce continuamente, com empresas buscando apps próprios e startups lançando soluções inovadoras. A demanda varia por região, mas é globalmente relevante.  
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+---
 
-- [Lista das habilidades principais a serem desenvolvidas]
+════════════════════════════════════════════════════════════  
+🥉 **3º LUGAR: Engenheiro de Inteligência Artificial (IA)** – 14/20  
+════════════════════════════════════════════════════════════  
 
-  - [Subhabilidades relacionadas, se aplicável]
+💡 **Por que combina com você:**  
+Você demonstrou interesse em IA e gosta de código. Embora seja uma área mais complexa, pode ser um caminho futuro após consolidar bases em programação.  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+⚖️ **O que esperar:**  
+**Vantagens:**  
+- Área de ponta, com grande impacto e inovação  
+- Possibilidade de trabalhar em projetos avançados e desafiadores  
 
-## 🎯 Objetivos e Resultados Esperados
+**Desafios:**  
+- Ramp-up mais longo (exige matemática, estatística e programação avançada)  
+- Maior tempo até atingir nível júnior  
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+📈 **Mercado:**  
+O mercado de IA está em forte expansão, mas exige especialização. A demanda varia por região e experiência, sendo mais concentrada em empresas de tecnologia e pesquisa.  
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+---
 
-<!--START_SECTION:footer-->
+════════════════════════════════════════════════════════════  
 
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+👉 Qual dessas carreiras te chamou mais atenção?
