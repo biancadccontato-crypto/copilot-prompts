@@ -77,6 +77,7 @@ O mercado de IA está em forte expansão, mas exige especialização. A demanda 
 
 Saída completa Agent 2:
 
+
 Olá! Recebi suas informações do entrevistador.  
 
 Vejo que você escolheu **Desenvolvedor Web Full Stack** e tem **10 horas por semana** para estudar. Perfeito!  
