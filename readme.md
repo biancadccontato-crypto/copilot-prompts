@@ -75,8 +75,9 @@ O mercado de IA está em forte expansão, mas exige especialização. A demanda 
 
 👉 Qual dessas carreiras te chamou mais atenção?
 
-Saída completa Agent 2:
+##Saída completa Agent 2:
 
+---
 
 Olá! Recebi suas informações do entrevistador.  
 
